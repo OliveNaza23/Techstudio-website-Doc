@@ -1,4 +1,4 @@
-# Getting Started with Tech-studio App
+# Getting Started with Techstudio App
 
 This project can be previewed Live [Click Here To View](https://tsacademy.vercel.app/).
 
